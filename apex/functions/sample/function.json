@@ -1,0 +1,7 @@
+{
+  "name": "sample",
+  "description": "sample function",
+  "timeout": 5,
+  "runtime": "golang",
+  "role": "arn:aws:iam::123456789012:role/lambda_golang_mongodb_apex_lambda_function"
+}

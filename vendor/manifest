@@ -1,0 +1,89 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/BurntSushi/toml",
+			"repository": "https://github.com/BurntSushi/toml",
+			"vcs": "git",
+			"revision": "a368813c5e648fee92e5f6c30e3944ff9d5e8895",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/aws/aws-lambda-go",
+			"repository": "https://github.com/aws/aws-lambda-go",
+			"vcs": "git",
+			"revision": "66db136cda0d9c21f9e7b88a2e6249fd676f9bc6",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/globalsign/mgo",
+			"repository": "https://github.com/globalsign/mgo",
+			"vcs": "git",
+			"revision": "113d3961e7311526535a1ef7042196563d442761",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/stretchr/testify/assert",
+			"repository": "https://github.com/stretchr/testify",
+			"vcs": "git",
+			"revision": "f35b8ab0b5a2cef36673838d662e249dd9c94686",
+			"branch": "master",
+			"path": "/assert",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/stretchr/testify/vendor/github.com/davecgh/go-spew/spew",
+			"repository": "https://github.com/stretchr/testify",
+			"vcs": "git",
+			"revision": "f35b8ab0b5a2cef36673838d662e249dd9c94686",
+			"branch": "master",
+			"path": "vendor/github.com/davecgh/go-spew/spew",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/stretchr/testify/vendor/github.com/pmezard/go-difflib/difflib",
+			"repository": "https://github.com/stretchr/testify",
+			"vcs": "git",
+			"revision": "f35b8ab0b5a2cef36673838d662e249dd9c94686",
+			"branch": "master",
+			"path": "vendor/github.com/pmezard/go-difflib/difflib",
+			"notests": true
+		},
+		{
+			"importpath": "golang.org/x/net/context",
+			"repository": "https://go.googlesource.com/net",
+			"vcs": "git",
+			"revision": "e514e69ffb8bc3c76a71ae40de0118d794855992",
+			"branch": "master",
+			"path": "/context",
+			"notests": true
+		},
+		{
+			"importpath": "gopkg.in/tomb.v2",
+			"repository": "https://gopkg.in/tomb.v2",
+			"vcs": "git",
+			"revision": "d5d1b5820637886def9eef33e03a27a9f166942c",
+			"branch": "v2",
+			"notests": true
+		},
+		{
+			"importpath": "gopkg.in/urfave/cli.v1",
+			"repository": "https://gopkg.in/urfave/cli.v1",
+			"vcs": "git",
+			"revision": "cfb38830724cc34fedffe9a2a29fb54fa9169cd1",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "gopkg.in/yaml.v2",
+			"repository": "https://gopkg.in/yaml.v2",
+			"vcs": "git",
+			"revision": "5420a8b6744d3b0345ab293f6fcba19c978f1183",
+			"branch": "master",
+			"notests": true
+		}
+	]
+}
