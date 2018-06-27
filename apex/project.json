@@ -1,5 +1,5 @@
 {
-  "profile": "cropconnex",
+  "profile": "yourawsprofile",
   "name": "lambda_golang_mongodb_apex",
   "description": "Sample codes for working with lambda, golang and mongodb atlas",
   "timeout": 5,
